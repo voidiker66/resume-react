@@ -1,0 +1,40 @@
+{
+	"data": [
+		{
+			"project_name" : "Kimchi Krypt",
+			"project_description" : "Encrypt files based on user input and random key generation.<br/>Protects against chosen-plaintext attacks at a 100% success rate due to the perfectly secret nature of random key generation.",
+			"project_languages" : "Java",
+			"project_work" : "Side Project"
+		},
+		{
+			"project_name" : "PintOS",
+			"project_description" : "Manufactured a simple OS that includes priority scheduling, thread management, virtual memory, and calls to user programs.<br/>Converted the existing single-threaded file system to a multi-level indexed file system.",
+			"project_languages" : "C",
+			"project_work" : "Class Project"
+		},
+		{
+			"project_name" : "Financial Road Trip Planner",
+			"project_description" : "Plan road trips by mapping the route and finding hotels, ATMs, and gas stations along the way.<br/>Automatically generate budget based on known factors and track spending by accessing Capital One bank account.",
+			"project_languages" : "JavaScript, HTML5, CSS3, Google Maps API, Capital One API",
+			"project_work" : "Side Project"
+		},
+		{
+			"project_name" : "Reddit Jokes Alexa Skill",
+			"project_description" : "Extracts jokes from JSON stripped from the jokes subreddit and reads them aloud.<br/>Filters dirty language to provide family-friendly jokes on voice command.",
+			"project_languages" : "JavaScript, Node.js, AWS, Lambda",
+			"project_work" : "Side Project"
+		},
+		{
+			"project_name" : "Cribbage AI",
+			"project_description" : "Developed a machine learning algorithm to teach AI to play cribbage, a complex card game.<br/>Used reinforcement learning, along with self-coded scoring guidelines, to teach AI to choose the most optimal card to play at all points during the game.",
+			"project_languages" : "Python, Scikit-learn",
+			"project_work" : "Side Project"
+		},
+		{
+			"project_name" : "Parks Are Awesome",
+			"project_description" : "Constructed a react-frontend, flask-backend website that pulled data from a MySQL database in order to present National Parks, events happening at National Parks, and the wildlife common in the United States.<br/>Users are able to search, sort, and filter the data pulled from the API.<br/>Graphically displayed the data using D3 visualizations.",
+			"project_languages" : "JavaScript, React, Python, Flask, MySQL, SqlAlchemy, CSS3, HTML5, AWS, Postman, Mocha, Selenium",
+			"project_work" : "Class Project"
+		}
+	]
+}

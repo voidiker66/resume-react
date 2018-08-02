@@ -1,0 +1,39 @@
+{
+	"data": [
+		{
+			"work_company" : "McComb's School of Business",
+			"work_job_title" : "Web Developer",
+			"work_description" : "Constructed the user interfaces and algorithms for searching the profile directory pages.<br/>Reinforced front-end code with back-end solutions in order to modernize the display.",
+			"work_start" : "March 19, 2016",
+			"work_end" : "May 26, 2017"
+		},
+		{
+			"work_company" : "Raytheon",
+			"work_job_title" : "Software Engineer Intern",
+			"work_description" : "Automated software testing to improve efficiency by over 600%, saving over $54,000 a year.<br/>Graphically displayed test results, highlighting potential bottlenecks and areas of low efficiency.<br/>Updated the User GUI from a Flash interface to HTML5, Java, and JavaScript.",
+			"work_start" : "May 26, 2017",
+			"work_end" : "May 20, 2018"
+		},
+		{
+			"work_company" : "Good Citizen Network",
+			"work_job_title" : "Full Stack Developer",
+			"work_description" : "Funded a startup company with a crowdsale smart contract using two custom crypto tokens.<br/>Developed a crypto voting system, allowing crowdsale participants to vote on relevant issues.<br/>Invented a Utility Token that served as the backbone of the entire company.<br/>Tested all functionalities through secure Unit Testing and uploaded to DApp web application",
+			"work_start" : "March 18, 2018",
+			"work_end" : "July 6, 2018"
+		},
+		{
+			"work_company" : "Side Project",
+			"work_job_title" : "Full Stack Developer",
+			"work_description" : "Fun projects I worked on at home in my free time.",
+			"work_start" : "August 27, 2013",
+			"work_end" : null
+		},
+		{
+			"work_company" : "Class Project",
+			"work_job_title" : "Full Stack Developer",
+			"work_description" : "Challenging projects I worked on for class at University of Texas at Austin.",
+			"work_start" : "August 29, 2015",
+			"work_end" : "May 4, 2019"
+		}
+	]
+}

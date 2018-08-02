@@ -1,0 +1,34 @@
+{
+	"data" : [
+		{
+			"company_name" : "McComb's School of Business",
+			"company_location" : "2110 Speedway, Austin, TX 78705",
+			"company_contact" : "(512) 471-5921"
+		},
+		{
+			"company_name" : "Raytheon",
+			"company_location" : "7887 Bryan Dairy Rd, Largo, FL 33777",
+			"company_contact" : "(727) 381-2000"
+		},
+		{
+			"company_name" : "Good Citizen Network",
+			"company_location" : "2021 Guadalupe St, Austin, TX 78705",
+			"company_contact" : "(512) 554-7261"
+		},
+		{
+			"company_name" : "Blue Check",
+			"company_location" : "6806 Bee Caves Rd, Austin, TX 78746",
+			"company_contact" : "https://www.bluecheck.me/"
+		},
+		{
+			"company_name" : "Side Project",
+			"company_location" : "Austin Ikerd",
+			"company_contact" : "asikerd@gmail.com"
+		},
+		{
+			"company_name" : "Class Project",
+			"company_location" : "University of Texas at Austin",
+			"company_contact" : "asikerd@gmail.com"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+Flask
+Redis
+coverage
+elasticsearch
+elasticsearch-dsl
+Flask-Cors
+Flask-OAuth
+flask-restplus
+flask-restless
+Flask-SQLAlchemy
+Flask-Testing
+gunicorn
+nose
+pymysql
+flask-mysql

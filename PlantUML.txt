@@ -1,0 +1,22 @@
+@startuml
+
+object Work
+object Project
+object Company
+
+Work->Company
+Work : jobTitle
+Work : description
+Work : timeStart
+Work : timeEnd
+
+Project->Work
+Project : name
+Project : description
+Project : languages
+
+Company : name
+Company : location
+Company : contact
+
+@enduml
