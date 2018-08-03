@@ -51,7 +51,7 @@ body {
   width: 100%;
   height: auto;
   text-align: center;
-  background-color: #022301;
+  background-color: #080808;
 }
 .card-img-top {
   width: 100%;
@@ -63,6 +63,26 @@ body {
   height: auto;
 }
 
+a {
+  color: #ff3030;
+}
+
+a:hover, a:active {
+  color: #ff6b2e;
+}
+
+.card:hover {
+  background-color: #000000;
+  border: solid 2px #080808;
+}
+
+h1 {
+  color: #ffaa38;
+}
+
+h3 {
+  color: #ff8835;
+}
 
 @keyframes move-twink-back {
     from {background-position:0 0;}

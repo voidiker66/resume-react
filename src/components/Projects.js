@@ -137,7 +137,7 @@ render() {
     <Col key ={item.project_db_id} xs={6} md={4}>
 
       <div className="card grid" style={cardStyle}>
-        <p className='card-name important'><b>{item.project_name}</b></p>
+        <h3 className='card-name important'><b>{item.project_name}</b></h3>
         <p className='card-name'>{item.project_languages}</p>
           <p className='card-name' dangerouslySetInnerHTML={{ __html: item.project_description}}></p>
       </div>
