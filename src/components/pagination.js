@@ -30,7 +30,6 @@ class Pagination extends React.Component {
         // reset page if items array has changed
         if (this.props.items !== prevProps.items) {
             this.setPage(this.props.initialPage);
-            console.log(this.props.items.length);
         }
     }
  
