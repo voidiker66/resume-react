@@ -161,17 +161,6 @@ render() {
     return (
         <div>
         <Background/>
-      <Dropdown isOpen={this.state.dropdownOpen} toggle={this.toggle} onChange={this.handleChange} value={this.sortValue}>
-        <DropdownToggle caret>
-          Filter ({this.state.sortText})
-        </DropdownToggle> 
-        <DropdownMenu>
-          <DropdownItem value="1" onClick={this.select}>Database ID Asc</DropdownItem>
-          <DropdownItem divider />
-          <DropdownItem value="2" onClick={this.select}>Database ID Desc</DropdownItem>
-          <DropdownItem divider />
-        </DropdownMenu>
-      </Dropdown>
             <div className="container">
                 <div className="text-center">
                     <h1 id='events'>Work Experience</h1>
