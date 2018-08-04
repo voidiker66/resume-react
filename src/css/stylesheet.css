@@ -1,7 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script');
+
 
 body {
   color: #fff;
-  font-family: stonehenge;
 }
 #home {
   overflow: hidden;
@@ -52,6 +53,7 @@ body {
   height: auto;
   text-align: center;
   background-color: #080808;
+  opacity: 0.9;
 }
 .card-img-top {
   width: 100%;
@@ -64,7 +66,7 @@ body {
 }
 
 a {
-  color: #ff3030;
+  color: #ffaa38;
 }
 
 a:hover, a:active {
@@ -74,14 +76,19 @@ a:hover, a:active {
 .card:hover {
   background-color: #000000;
   border: solid 2px #080808;
+  opacity: 1;
 }
 
 h1 {
-  color: #ffaa38;
+  color: #ff6b2e;
 }
 
 h3 {
   color: #ff8835;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Kaushan Script', cursive;
 }
 
 @keyframes move-twink-back {
